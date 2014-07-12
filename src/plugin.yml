@@ -1,0 +1,8 @@
+name: LegitimateCmdBlocks
+main: com.thieding.LegitimateCmdBlocks
+version: 1.0.0
+
+permissions:
+    LegitimateCmdBlocks.updatecmd:
+            description: Update Command Block Command
+            default: op
